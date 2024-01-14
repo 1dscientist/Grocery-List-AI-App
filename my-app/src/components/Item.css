@@ -1,0 +1,78 @@
+/*
+TODO:
+Make responsive website better
+*/
+
+.p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.item-container {
+  font-family: Helvetica, sans-serif, sans-serif;
+  display: flex;
+}
+
+.item-body {
+  display: flex;
+  width: 400px;
+  height: auto;
+  justify-content: space-between; /* This pushes the child elements to opposite ends */
+}
+
+.item-name-description {
+  text-align: left;
+  margin-left: 10px;
+  align-self: center;
+}
+
+.item-name {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 30px;
+}
+
+.item-description {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.item-count {
+  font-size: 25px;
+  align-self: center;
+  padding: 5px;
+  margin-right: 10px;
+  border: 3px solid black;
+  border-radius: 8px;
+  min-width: 30px;
+  text-align: center;
+}
+
+.item-count-manipulator {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-add {
+  border-radius: 4px;
+  font-size: 20px;
+  min-width: 30px;
+  min-height: 30px;
+  margin: 5px;
+  background-color: #34a203;
+  font-weight: bold;
+  border: 3px solid black;
+}
+
+.item-subtract {
+  border-radius: 4px;
+  font-size: 20px;
+  min-width: 30px;
+  min-height: 30px;
+  background-color: #ff6347;
+  font-weight: bold;
+  border: 3px solid black;
+}

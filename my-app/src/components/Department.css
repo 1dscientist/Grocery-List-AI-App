@@ -1,0 +1,16 @@
+.department-component {
+  font-family: Helvetica, sans-serif, sans-serif;
+  border: 3px solid black;
+  border-radius: 8px;
+  width: 400px;
+  padding: 10px;
+}
+
+.department-name {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  margin: 0px;
+  margin-left: 10px;
+  text-decoration: underline dotted;
+}

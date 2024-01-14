@@ -1,0 +1,16 @@
+.delete-button
+{
+    font-family: Helvetica, sans-serif, sans-serif;
+    width: 150px;
+    min-height: 50px;
+    background-color: #ff6347;
+    border-radius: 16px;
+    font-size: 125%;
+    font-weight: bold;
+    height: fit-content;
+    box-sizing: content-box;
+    overflow-y: hidden;
+    color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+}

@@ -1,0 +1,20 @@
+.promptBox-inputForm
+{
+    font-family: Helvetica, sans-serif, sans-serif;
+    width: 400px;
+    min-height: 50px;
+    border: 3px solid black;
+    border-radius: 16px;
+    background-image: url('55008.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 50px;
+    font-size: 125%;
+    font-weight: bold;
+    height: fit-content;
+    box-sizing: content-box;
+    overflow-y: hidden;
+    color: black;
+    margin-bottom: 50px;
+}

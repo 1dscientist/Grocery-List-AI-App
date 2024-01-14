@@ -1,0 +1,10 @@
+.list-component {
+  margin-top: 50px;
+  display: grid;
+  margin-bottom: 50px;
+  gap: 10px;
+}
+
+list.departments {
+  margin: 25px;
+}
