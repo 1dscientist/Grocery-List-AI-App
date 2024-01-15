@@ -25,4 +25,7 @@ This repository hosts a sophisticated grocery list application that integrates t
 ## Usage
 - Add an item by typing its name and quantity (optional), then press enter
 - Click copy all to copy the catergorized list
-- Click delete all to delete all the list items 
+- Click delete all to delete all the list items
+
+## Example of App Running
+![Screenshot 2024-01-14 at 6 00 52 PM](https://github.com/1dscientist/Grocery-List-AI-App/assets/58582408/92f46f10-9df2-4e3e-8743-402c37bc3abb)
